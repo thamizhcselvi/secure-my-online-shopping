@@ -1,0 +1,2 @@
+# secure-my-online-shopping
+In this project, I have used all the knowledge I acquired during the course to secure an e-commerce portal. During, this project I learned and showcased to secure the app with JWT, wrote test cases cover more than 80% of the code, logged key metrics to monitor the system, and indexed in Splunk. Finally, deployed the service securely on AWS using Docker, Jenkins on an EC2 instance.
